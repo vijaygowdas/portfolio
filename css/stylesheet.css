@@ -305,6 +305,11 @@ body {
   cursor: pointer;
 }
 
+.download a {
+  text-decoration: none;
+  color: var(--primarytext);
+}
+
 .myInfo {
   background-image: var(--myInfo);
   width: 300px;
